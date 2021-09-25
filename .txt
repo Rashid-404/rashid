@@ -1,0 +1,6 @@
+# install
+git clone https://github.com/Rashid-404/rashid
+
+#Run
+cd Rashid
+python2 rashid.xml
